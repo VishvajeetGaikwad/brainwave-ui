@@ -33,4 +33,4 @@ A sleek, futuristic landing page UI built using modern frontend tools like React
 
 ---
 
-## 📂 Folder Structure
+
