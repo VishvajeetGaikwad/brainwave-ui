@@ -26,9 +26,9 @@ A sleek, futuristic landing page UI built using modern frontend tools like React
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
-![Brainwave Landing Page Preview](https://your-deployment-link-or-image-url.com/preview.png)
+![Brainwave Landing Page Preview](https://brainwave-ui-y2qs.onrender.com/)
 
 ---
 
